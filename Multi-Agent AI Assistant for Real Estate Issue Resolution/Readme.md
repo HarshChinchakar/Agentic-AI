@@ -1,7 +1,9 @@
 # Multi-Agent Real Estate Assistant
 
-**Loom Demo:** [https://loom.com/your-video-link-here]  
-**GitHub Repository:** [https://github.com/your-repo-link-here]  
+Multiple times the preview option isnt available on git, The project is fully functional. Either download the file/ or check out the colab link
+---
+**Demo Link:** [https://drive.google.com/file/d/1ypPHc3rEhmYfkQ7WVRGY4yPLpTIaJ30H/view?usp=sharing]  
+**Colab Link:** [https://colab.research.google.com/drive/1MChbqCnrY-6Jq49gf5qB7r_rzjZ7yxDr?usp=sharing]  
 
 ---
 
