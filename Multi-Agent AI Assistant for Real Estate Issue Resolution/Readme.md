@@ -24,7 +24,7 @@ The system follows a clean modular architecture separated into agents, routing m
 - Integrated **fallback control** to reassign unresolved queries to alternate agent pipelines.
 - Enables **mid-conversation agent switching** without losing context.
 
-![Meta Agent Architecture]("Multi-Agent AI Assistant for Real Estate Issue Resolution/assets/agent_architecture.png")
+![Meta Agent Architecture](assets/agent_architecture.png)
 
 ---
 
